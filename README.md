@@ -10,3 +10,7 @@ The aim of the project is to detect brain tumour from the MRI (Magnetic Resonanc
 ## 3. Waiter Tips Prediction using Machine Learning
 <img src="https://user-images.githubusercontent.com/68279848/212526596-74aef0ed-9b03-42a2-9d35-6cc101719505.jpg" width="500" height="300">
 This ML regression model can predict the amount of tips based on the table size, bill amount, name of day, time, sex and smoking habit for a particular restaurant. Although the tip amount depends on many other factors in real life, this supervised learning approach helps us to analyse the available factors and predict the tip accordingly. Dataset: [tips.csv](https://github.com/sms25/Machine-Learning-Projects/files/10419648/tips.csv)
+
+## 4. Housing Price Prediction using Machine Learning
+<img src="https://user-images.githubusercontent.com/68279848/212756514-bf53bf70-e5df-49ee-954e-ad5137e61c97.jpeg" width="500" height="300">
+California housing market is turned out to be a hot seller's real estate market. The aim of the project is to predict the housing price based on the longitude, latitude, housing median age, total number of rooms, total number of bedrooms, population, households and median income. It also analyses the feature importances and compares the performances of various machine learning regression models. The dataset is available on google colab's sample_data.
