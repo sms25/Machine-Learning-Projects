@@ -14,3 +14,7 @@ This ML regression model can predict the amount of tips based on the table size,
 ## 4. Housing Price Prediction using Machine Learning
 <img src="https://user-images.githubusercontent.com/68279848/212756514-bf53bf70-e5df-49ee-954e-ad5137e61c97.jpeg" width="500" height="300">
 California housing market is turned out to be a hot seller's real estate market. The aim of the project is to predict the housing price based on the longitude, latitude, housing median age, total number of rooms, total number of bedrooms, population, households and median income. It also analyses the feature importances and compares the performances of various machine learning regression models. The dataset is available on google colab's sample_data.
+
+## 5. Image Classification using CNN
+<img src="https://user-images.githubusercontent.com/68279848/235137747-1da2847a-a349-465f-934b-b68f6951af14.png" width="350" height="350">
+This Deep Learning (DL) image classification model can classify the images as 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship' and 'truck'. The model is based on the Convolution Neural Network (CNN) and implemented with Keras Sequential API and TensorFlow in the backend. The model is trained with the CIFAR-10 (Canadian Institute For Advanced Research) computer-vision dataset that consists of 60000 32x32 colour images in 10 classes.
